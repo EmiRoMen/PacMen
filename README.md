@@ -25,3 +25,7 @@ To utilize the PacMen Factory, follow these steps:
 3. Use the `startGame` function to initiate the movement of all available PacMen entities.
 
 4. Observe as the PacMen entities move within the game environment, bouncing off any boundary they encounter.
+
+##License
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). 
