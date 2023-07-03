@@ -1,6 +1,6 @@
 # PacMen Factory
 
-This code represents a PacMen Factory that generates and controls PacMen entities in a game environment.
+This repository contains code that represents a PacMen Factory, which generates and controls PacMen entities in a game environment.
 
 ## Overview
 
@@ -28,4 +28,4 @@ To utilize the PacMen Factory, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/). 
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
