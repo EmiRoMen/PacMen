@@ -26,6 +26,6 @@ To utilize the PacMen Factory, follow these steps:
 
 4. Observe as the PacMen entities move within the game environment, bouncing off any boundary they encounter.
 
-##License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit/). 
